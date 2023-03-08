@@ -12,7 +12,7 @@ From a pet-trainer's or a pet-sitter's perspective, both are able to check the p
 More intel about the app:
 
 iPetIt is fully supported and funded exclusively by ads. We do not charge for anything. We should also mention that we are not responsible for any misunderstandings between pet-owners and pet-trainers or pet-sitters.
-Main goal of us, the creators of iPetIt was the evolution and empowerment of our skills and knowledge.
+Main goal of us, the creators of iPetIt is the evolution and empowerment of our skills and knowledge.
 The app is currently supported by two developers and the project manager, which also happens to be the one that had the idea. All of us are real close friends.
 
 -Initially Thought and Developed by two friends that started iPetIt as a fun project-
