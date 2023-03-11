@@ -7,7 +7,7 @@ From a user's perspective, pet owners can list their pets and provide all the ne
 Then, owners are able to choose a pet-trainer/instructor or a pet-sitter in order to train the pet or pet-sit it.
 Except from this service, pet owners are able to find additional information about their pets such as: recommended nourishments, vaccines, medicine, etc.
 
-From a pet-trainer's or a pet-sitter's perspective, both are able to check the pets that get listed. If the pet-trainers or pet-sitters have the appropriate specialisation, they can confirm that they are able to get the job and proceed with it.
+From a pet-trainer's or a pet-sitter's perspective, both are able to check the pets that get listed. If the pet-trainers or pet-sitters have the appropriate specialty, they can confirm that they are able to get the job and proceed with it.
 
 More intel about the app:
 
